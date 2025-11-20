@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I’m **Abdur Rehman** 👋
+I’m a full-stack engineer who builds scalable, real-time applications across **web**, **mobile**, and **desktop**.
 
-<!--
-**AbdurRehmanMalik1/AbdurRehmanMalik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work with **FastAPI**, **NestJS**, **Java**, **Flutter**, **React**, and love combining modern backend systems with clean UI experiences. My interests span from distributed systems to AI-driven automation and developer tooling.
 
-Here are some ideas to get you started:
+### 🔧 What I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Backend & APIs:** FastAPI, NestJS, Java (Spring), strongly-typed architectures
+* **Mobile & Web:** Flutter, React, responsive UI, state management patterns
+* **AI & CV Concepts:** Model integration, real-time processing, computer vision workflows
+* **Distributed & Async Systems:** Redis, BullMQ, message-driven designs
+* **Data & Storage:** SQL, NoSQL, caching layers, AWS S3
+* **Desktop Apps:** JavaFX, diagram editors, UML tooling
+* **DevOps & Infra:** Docker, containerized services, scalable pipelines
+
+### 🚀 What Drives Me
+
+I enjoy designing systems that are fast, reliable, and elegant—whether it's real-time data flow, cross-platform applications, or intelligent automation. I'm always exploring new tools, frameworks, and patterns to sharpen my craft.
+
+Always building. Always shipping. 🚀
