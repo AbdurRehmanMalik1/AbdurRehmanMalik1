@@ -42,7 +42,7 @@ My experience includes:
 - Working with cloud storage, integrations, and application infrastructure
 - Developing desktop applications and developer tools using JavaFX
 
-I've also worked on freelance projects involving full-stack development, deployment, and optimization, including [SafeStay Istanbul](https://safestayistanbul.com/), a website providing hostel information in Istanbul.
+I've also worked on freelance projects involving full-stack development, deployment, and optimization, including [SafeStay Istanbul](https://safestayistanbul.vercel.app/), a website providing hostel information in Istanbul.
 
 ---
 
