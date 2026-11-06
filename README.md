@@ -1,50 +1,130 @@
-Hi, I’m **Abdur Rehman** 👋
-I’m a full-stack engineer who builds scalable, real-time applications across **web**, **mobile**, and **desktop**.
+# Hi, I'm **Abdur Rehman** 👋
 
-I work with **FastAPI**, **NestJS**, **Java**, **Flutter**, **React**, and enjoy combining modern backend systems with clean UI experiences. My interests span distributed systems, AI-driven automation, and developer tooling.
+I'm a software engineer currently working as an **Associate Data Engineer**, building and working with data pipelines, cloud-based infrastructure, and analytics solutions.
 
----
+My current work primarily involves **Python, AWS, AWS Glue, dbt, and PostgreSQL**, with a focus on data processing, ETL workflows, data transformations, and data warehouse development. I also have experience translating analytical and reporting requirements, including Power BI and DAX concepts, into SQL transformations and PostgreSQL data warehouse marts.
 
-## 💼 Associate Software Engineer
-
-As an **Associate Software Engineer**, I work with production-grade systems involving real-time data flow, microservice communication, API integrations, and modular architectures.
-My role involves:
-
-* Designing and extending backend services
-* Building reliable application flows for mobile and web
-* Ensuring strong typing, clean structure, and maintainable code
-* Working with cloud-based storage, internal tooling, and scalable infra
-
-I focus on delivering efficient, high-performance solutions while maintaining clean engineering practices.
+With a background in full-stack software development, I enjoy working across the technology stack, from backend services and distributed systems to cloud infrastructure and data engineering.
 
 ---
 
-## 🧑‍💻 Freelance Work
+## 💼 Associate Data Engineer
 
-Alongside my full-time work, I take on selective freelancing projects involving full-stack development, deployment, and optimization.
+Currently working on production-grade data engineering systems, focusing on data processing, transformation, integration, and analytics.
 
-I’ve built and deployed production-ready websites, including:
+My work involves:
 
-* A website for providing hostel information in Istanbul ([https://safestayistanbul.com/](https://safestayistanbul.com/))
-* Deployed using modern hosting platforms like **Vercel**, leveraging serverless optimizations and responsive UI design
+- Developing and maintaining data pipelines using Python and AWS services
+- Working with AWS Glue jobs, crawlers, and data cataloging
+- Building data transformation workflows using dbt
+- Designing and maintaining PostgreSQL data warehouse marts
+- Translating analytical requirements and reporting logic into SQL transformations and warehouse models
+- Working with Power BI and DAX concepts from a data warehousing and reporting perspective
+- Working with ETL/ELT processes, data quality, and pipeline optimization
+- Collaborating on scalable data infrastructure and engineering workflows
 
-My freelance work focuses on reliability, performance, and clean end-to-end implementations.
+I focus on building reliable, maintainable, and efficient data solutions.
 
 ---
 
-## 🔧 What I Work With
+## 🧑‍💻 Software Development Background
 
-* **Backend & APIs:** FastAPI, NestJS, Java (Spring), strongly-typed architectures
-* **Mobile & Web:** Flutter, React, structured UI patterns, cross-platform development
-* **AI & CV Concepts:** Model integration, real-time pipelines, computer vision workflows
-* **Distributed & Async Systems:** Redis, BullMQ, message-oriented designs
-* **Data & Storage:** SQL, NoSQL, caching strategies, AWS S3
-* **Desktop Apps:** JavaFX, diagram editors, UML tooling
-* **DevOps & Infra:** Docker, containerized microservices, scalable pipelines
+Before moving into data engineering, I worked extensively across backend, web, mobile, and desktop application development.
+
+My experience includes:
+
+- Designing and extending backend services using FastAPI, NestJS, and Java
+- Building REST APIs and modular application architectures
+- Developing web and mobile applications using React, Flutter, and React Native
+- Working with SQL and NoSQL databases
+- Implementing asynchronous processing and distributed workflows
+- Containerizing and deploying applications using Docker
+- Working with cloud storage, integrations, and application infrastructure
+- Developing desktop applications and developer tools using JavaFX
+
+I've also worked on freelance projects involving full-stack development, deployment, and optimization, including [SafeStay Istanbul](https://safestayistanbul.com/), a website providing hostel information in Istanbul.
+
+---
+
+## 🛠️ Personal Projects & Interests
+
+Outside my professional work, I enjoy experimenting with new technologies and building personal projects that take ideas from development to deployment.
+
+- **Mobile & Backend Development:** Building personal applications with dedicated backend services, APIs, database integrations, and deployment workflows.
+- **Minecraft Modding:** Exploring Minecraft modding, creating custom weapons, models, assets, and gameplay mechanics.
+- **Developer Tooling:** Experimenting with tools, automation, and software that improve development workflows.
+- **AI & Computer Vision:** Exploring object detection, deep learning, and real-time computer vision applications.
+
+I enjoy the entire process of building something independently, from designing the architecture and implementing features to deploying and making it usable.
+
+---
+
+## 🔧 Technologies & Tools
+
+**Data Engineering & Analytics**
+- Python
+- AWS Glue (Jobs & Crawlers)
+- AWS Data Services
+- dbt
+- PostgreSQL Data Warehousing
+- ETL / ELT Pipelines
+- SQL Analytics & Data Transformation
+- Data Modeling & Reporting Marts
+- Power BI & DAX (Conceptual Knowledge)
+
+**Cloud & Infrastructure**
+- AWS
+- Amazon S3
+- Docker
+- Containerized Microservices
+- Cloud-based Architectures
+
+**Backend & APIs**
+- FastAPI
+- NestJS
+- Java / Spring
+- REST APIs
+- Redis & BullMQ
+
+**Frontend & Mobile**
+- React
+- Flutter
+- React Native
+- Kotlin
+- Java
+
+**Databases & Storage**
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQL & NoSQL
+- Data Warehousing Concepts
+
+**AI & Computer Vision**
+- YOLO
+- Object Detection
+- Model Integration
+- Real-time Processing
+- Computer Vision Workflows
+
+**Game Modding & Development**
+- Minecraft Modding
+- 3D Models & Assets
+- Blockbench
+- Custom Game Mechanics
+
+**Other Development**
+- JavaFX
+- UML & Diagram Tooling
+- Distributed Systems
+- Asynchronous Processing
 
 ---
 
 ## 🚀 What Drives Me
 
-I enjoy designing systems that are fast, reliable, and elegant—whether it’s real-time streaming, cross-platform apps, or intelligent automation.
-Always exploring, always building, always shipping. 🚀
+I'm interested in building systems that solve real-world problems, whether that's designing scalable data pipelines, developing distributed backend services, creating cross-platform applications, or experimenting with game modifications.
+
+I enjoy exploring the intersection of **software engineering, data engineering, cloud computing, distributed systems, AI, and creative development**.
+
+Always learning, always building, always shipping. 🚀
